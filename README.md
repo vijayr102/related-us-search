@@ -1,4 +1,4 @@
-# Hybrid Search Monorepo
+# Hybrid Search 
 
 Hybrid search demo combining a FastAPI backend with a React + TypeScript frontend. The backend orchestrates BM25, vector search, deduplication, and Groq reranking for a `/hybrid_search` API; the frontend offers a simple UI for experimenting with tuning knobs.
 
